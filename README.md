@@ -33,8 +33,6 @@ Framework/Middleware builder.
 
 ## GitHub
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=wuuJiawei&show_icons=true&hide_title=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wuuJiawei&layout=compact" />
 <img height="160" src="https://streak-stats.demolab.com/?user=wuuJiawei&hide_border=true" />
 
 
