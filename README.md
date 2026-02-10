@@ -2,8 +2,6 @@
 
 Framework/Middleware builder.
 
----
-
 
 ## Tech Stack
 
@@ -23,7 +21,6 @@ Framework/Middleware builder.
   <img alt="Web" src="https://img.shields.io/badge/Web-111?logo=googlechrome&logoColor=white" />
 </p>
 
----
 
 ## Current Projects
 
@@ -33,7 +30,6 @@ Framework/Middleware builder.
 - 💡 [lighting-config](https://github.com/wuuJiawei/lighting-config) - Lightweight config center: long-poll + auth + cache, no spaceship architecture.
 - 🧩 [Quarkus-Vue-Admin](https://github.com/whatever-team/quarkus-vue-admin) - Quarkus + Vue admin scaffold with JWT/RBAC, dynamic routing, and codegen.
 
----
 
 ## GitHub
 
@@ -41,17 +37,10 @@ Framework/Middleware builder.
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wuuJiawei&layout=compact" />
 <img height="160" src="https://streak-stats.demolab.com/?user=wuuJiawei&hide_border=true" />
 
----
 
 ## Connect
 
 - GitHub: https://github.com/wuuJiawei
 - Email: wujiawei0926@gmail.com
 
----
 
-## Notes
-
-- Default-correct beats feature-rich.
-- If a system needs “rituals” to stay stable, it usually lacks constraints and observability.
-- XML can exist — just don’t let it drive the architecture.
