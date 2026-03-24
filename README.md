@@ -24,7 +24,7 @@ Framework/Middleware builder.
 
 ## Current Projects
 
-- [Remora](https://github.com/wuuJiawei/Remora) - [Coming Soon] Native macOS SSH + SFTP workspace built with SwiftUI and a custom high-performance terminal engine.
+- [Remora](https://github.com/wuuJiawei/Remora) - Native macOS SSH + SFTP workspace built with SwiftUI and a custom high-performance terminal engine.
 - [WuXiaIdle](https://github.com/wuuJiawei/WuXiaIdle) - [Coming Soon] Text-based idle game in a traditional wuxia setting.
 - [ArcRoute](https://github.com/wuuJiawei/ArcRoute) - Interface Driven Dynamic Spring MVC Routing Framework, Keeping Services Focused.
 - [ThreadForge](https://github.com/wuuJiawei/ThreadForge) - Make concurrency readable: structured execution, timeouts/cancellation, and observability by default.
