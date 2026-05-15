@@ -24,6 +24,7 @@ Framework/Middleware builder.
 
 ## Current Projects
 
+- [Vine](https://github.com/wuuJiawei/VineFlow) - [Coming Soon] Grow your business flows.
 - [Remora](https://github.com/wuuJiawei/Remora) - Native macOS SSH + SFTP workspace built with SwiftUI and a custom high-performance terminal engine.
 - [WuXiaIdle](https://github.com/wuuJiawei/WuXiaIdle) - [Coming Soon] Text-based idle game in a traditional wuxia setting.
 - [ArcRoute](https://github.com/wuuJiawei/ArcRoute) - Interface Driven Dynamic Spring MVC Routing Framework, Keeping Services Focused.
