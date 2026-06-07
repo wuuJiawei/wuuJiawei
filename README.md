@@ -24,9 +24,9 @@ Framework/Middleware builder.
 
 ## Current Projects
 
-- [Vine](https://github.com/wuuJiawei/VineFlow) - [Coming Soon] Grow your business flows.
+- [Vine](https://github.com/wuuJiawei/VineFlow) - Grow your business flows.
 - [Remora](https://github.com/wuuJiawei/Remora) - Native macOS SSH + SFTP workspace built with SwiftUI and a custom high-performance terminal engine.
-- [WuXiaIdle](https://github.com/wuuJiawei/WuXiaIdle) - [Coming Soon] Text-based idle game in a traditional wuxia setting.
+- [WuXiaIdle](https://github.com/wuuJiawei/WuXiaIdle) - Text-based idle game in a traditional wuxia setting.
 - [ArcRoute](https://github.com/wuuJiawei/ArcRoute) - Interface Driven Dynamic Spring MVC Routing Framework, Keeping Services Focused.
 - [ThreadForge](https://github.com/wuuJiawei/ThreadForge) - Make concurrency readable: structured execution, timeouts/cancellation, and observability by default.
 - [Snail TodoList](https://github.com/wuuJiawei/snail-todolist) - Offline-first todo that stays usable with or without a backend.
