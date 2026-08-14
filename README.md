@@ -24,6 +24,8 @@ Framework/Middleware builder.
 
 ## Current Projects
 
+- [Stoat](https://github.com/wuuJiawei/stoat) - Safely inspect and manage startup items, background tasks, launchd jobs, and cron on macOS.
+- [XXL-JOB Boost](https://github.com/wuuJiawei/xxl-job-boost) - XXL-JOB enhanced for modern Java teams.
 - [Vine](https://github.com/wuuJiawei/VineFlow) - Grow your business flows.
 - [Remora](https://github.com/wuuJiawei/Remora) - Native macOS SSH + SFTP workspace built with SwiftUI and a custom high-performance terminal engine.
 - [WuXiaIdle](https://github.com/wuuJiawei/WuXiaIdle) - Text-based idle game in a traditional wuxia setting.
